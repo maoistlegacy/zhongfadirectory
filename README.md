@@ -13,12 +13,15 @@ See [USERGUIDE.md](USERGUIDE.md) for information on design and sources.
 The Zhongfa Directory has been created by the Maoist Legacy Project.
 
 Principal investigator: Daniel Leese
+
 Compilers: Puck Engman and Yueran Tian
+
 Assistance: Baigulahu Wang and Chia-yi Wu
 
 ## Contributors
 
 Michael Schoenhals (Lund University)
+
 Lu Yi (Harvard University)
 
 ## Citation format
