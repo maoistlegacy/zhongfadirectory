@@ -4,7 +4,7 @@ The Zhongfa Directory has been developed as part of the Maoist Legacy Project’
 
 ## Getting started
 
-The Zhongfa Directory (v 1.1) is a dataset consisting of 34 separate CSV files. [ZD1954-86.csv](ZD1954-86.csv) contains all the entries in the directory from 1954 to 1986, the remaining 33 files each cover a single year.   
+The [Zhongfa Directory](zhongfa-directory) (v 1.1) is a dataset consisting of 34 separate CSV files. ZD1954-86.csv contains all the entries in the directory from 1954 to 1986, the remaining 33 files each cover a single year.   
 
 See [USERGUIDE.md](USERGUIDE.md) for information on design and sources.  
 
