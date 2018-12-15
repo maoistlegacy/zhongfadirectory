@@ -26,7 +26,7 @@ Lu Yi (Harvard University)
 
 ## Citation format
 
-The Maoist Legacy Project (2017) Zhongfa Directory (v.1.1).
+The Maoist Legacy Project (2018) Zhongfa Directory (v.1.1).
 
 ## License
 
