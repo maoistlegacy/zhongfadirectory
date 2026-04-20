@@ -1,6 +1,6 @@
-# The Zhongfa Directory (v.1.1) by the Maoist Legacy Project
+# The Zhongfa Directory by the Maoist Legacy Project
 
-The Zhongfa Directory (v.1.1) by the Maoist Legacy Project is licensed under a
+The Zhongfa Directory by the Maoist Legacy Project is licensed under a
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 See below for a copy of this license, or visit: <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
