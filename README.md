@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.19672884"><img src="https://zenodo.org/badge/151310748.svg" alt="DOI"></a>
+
 # The Zhongfa Directory: A Maoist Legacy Project Resource
 
 The Zhongfa Directory has been developed as part of the Maoist Legacy Project’s compilation of a scholarly database on how the CCP dealt with the legacies of the Maoist past.  The project is funded by the European Research Council under the European Union's Seventh Framework Program (FP7/2007-2013) / ERC grant agreement n° 336202.
