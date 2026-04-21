@@ -1,8 +1,8 @@
 # User Guide
 
-The Zhongfa Directory is a dataset consisting of 34 separate CSV files. “ZD1954-86.csv” contains all the entries in the directory from 1954 to 1986, the remaining 33 files each correspond to one year.   
+The Zhongfa Directory is a dataset comprising 34 CSV files. “ZD1954-86.csv” contains all the entries in the directory from 1954 to 1986, the remaining 33 files each correspond to one year.   
 
-Please direct any questions or bug reports to: <contact@maoistlegacy.de>
+Please direct any questions and report errors to <contact@maoistlegacy.de> and <puck.engman@berkeley.edu>
 
 ## Design
 
